@@ -1,0 +1,25 @@
+/*
+1.Posicionamiento
+2.Modelo de caja
+3.Tipografia
+4.Visuales
+5.Otros
+*/
+:root {
+  /* Colores */
+  --bitcoin-orange: #F7931A;
+  --soft-orange: #FFE9D5;
+  --secondary-ble: #1a91f7;
+  --soft-ble: #e7f5ff;
+  --warm-black: ##201E1C;
+  --black: #282623;
+  --grey: #bababa;
+  --off-white: #FAF8F7;
+  --just-white: #fff;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
